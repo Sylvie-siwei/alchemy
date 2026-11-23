@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-23",
+  "scope": "Only favicon and identified starter/build boundary; no new functionality or dependency changes",
+  "files": [
+    {
+      "path": "public/favicon.svg",
+      "before": "3e8863288c2d43dd33d2a71de317dcf9198f09932ea8d61e0def1b846a865435",
+      "after": "d5badb8b7e8aecf17a03fea9e09864cbb45dde3341af8f87244fc81ab4bd6eeb"
+    },
+    {
+      "path": "vite.config.ts",
+      "before": "8d9afbab1b7ffd96b7b683a9a06e04ac6538950cba2031644346da005b8db16d",
+      "after": "31c8292750039e83bf427713f4add52dcfe8ba2fd901f517fa545eae3272fd1c"
+    },
+    {
+      "path": "worker/index.ts",
+      "before": "d8e9c9a19e07167dbba947485bb89e27cf4899e87b4b487265d2dc9e3518a62f",
+      "after": "cd44133b8ce425f92d3c09ff2e5816bda31de29110ce2231ece02204673b2ff8"
+    },
+    {
+      "path": "tsconfig.json",
+      "before": "d0ceaceca0bc2c5ac51c5ded020c1cc20e91c3503679eab6e3ea412587819cc0",
+      "after": "d1c0610896220210bda16e0138e9ee8211cedaed10638a0f867cde3a1492002c"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "before": "7b299d3d3b16699ddda397c0b2373b3af4f25f8fc9ccc9b3d9e64ef083bc1c21",
+      "after": "71aa1cd0e25e9fe251c85ab3ee8c71e9404c5b4007072a73dd9cd82f982090f5"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "before": "30e084654e5072ab8d1e780e0782a155b587213d36677fed7b07026edc3d2366",
+      "after": "75e7404fd943fea9269a225979357cce6fe756dcd92b3c20198667a6ecfe1b7d"
+    },
+    {
+      "path": ".gitignore",
+      "before": "80b05683ecf1b2134cdbb3815f16e6b5f11a262ad7e1d33beeb7c868b343b5a8",
+      "after": "ae5d06c11b5a0a8e6f121acba1ddeab232e25816d743a88955775ebdfc82c930"
+    },
+    {
+      "path": "next.config.ts",
+      "before": "a972c4f0ffa6dd714e7909b02d1ac19d2f2fe3d01f191efd2c5054bd6f142ec1",
+      "after": null
+    },
+    {
+      "path": "next-env.d.ts",
+      "before": "74ecf1a3bc702f296a7363c9ec6fe560278e32bd7f44c1bbac987f81ef7aa6df",
+      "after": "74ecf1a3bc702f296a7363c9ec6fe560278e32bd7f44c1bbac987f81ef7aa6df"
+    },
+    {
+      "path": "package.json",
+      "before": "e22ad5b6237f88ee4f078fde3f11b05cc0e53e682b9dc9c89a5e5c799300d790",
+      "after": "108e1a9c7ba4ce923b4c27cf4c4fb0a7854c102f244eeb85ab36c8744d84b9f9"
+    },
+    {
+      "path": "package-lock.json",
+      "before": "7ba5ef054e7550eb876b4af0392dec6027dda6f5f86c2ea3fd3e5198f4621b94",
+      "after": "a8978063e6d5b75be9f0df91ed108aa2ddd0e44ca16721cfbd50ce1158d82b59"
+    }
+  ]
+}

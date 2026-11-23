@@ -1,0 +1,5 @@
+<!-- Alchemy geometric A mark, constructed for this public edition with Codex assistance. No imported paths or fonts. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="#28584e"/>
+  <path d="M8.5 24 16 7.5 23.5 24M11.5 18h9" stroke="#f4faf7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

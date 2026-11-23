@@ -1,0 +1,54 @@
+{
+  "checkedOn": "2026-11-23",
+  "assetMatches": [
+    {
+      "local": "public/file.svg",
+      "upstream": "https://raw.githubusercontent.com/vercel/next.js/v16.2.6/packages/create-next-app/templates/app/js/public/file.svg",
+      "gitBlob": "004145cddf3f9db91b57b9cb596683c8eb420862",
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4",
+      "localSha256": "81a9ce5ca9bc60870c1d72c0fd5b98b2bc5c8c02b0e04fefeab9efcc11277228",
+      "exactByteMatch": false,
+      "normalizedTextMatch": true
+    },
+    {
+      "local": "public/globe.svg",
+      "upstream": "https://raw.githubusercontent.com/vercel/next.js/v16.2.6/packages/create-next-app/templates/app/js/public/globe.svg",
+      "gitBlob": "567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf",
+      "localSha256": "13187c071b4d369df3a7a179f69a927165bf624e1a524ee6c93b7d3be75d6fc8",
+      "exactByteMatch": false,
+      "normalizedTextMatch": true
+    },
+    {
+      "local": "public/window.svg",
+      "upstream": "https://raw.githubusercontent.com/vercel/next.js/v16.2.6/packages/create-next-app/templates/app/js/public/window.svg",
+      "gitBlob": "b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1",
+      "localSha256": "d3cd4bf0c1123258fcc266409856e28c93d4fc1cf8476702225e17842900ca63",
+      "exactByteMatch": false,
+      "normalizedTextMatch": true
+    }
+  ],
+  "upstreamLicenseSnapshots": [
+    {
+      "label": "next-license",
+      "url": "https://raw.githubusercontent.com/vercel/next.js/v16.2.6/license.md",
+      "sha256": "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224"
+    },
+    {
+      "label": "vite-react-license",
+      "url": "https://raw.githubusercontent.com/vitejs/vite-plugin-react/main/LICENSE",
+      "sha256": "29b68325fe026047d13e187b44c33b2acacf7dc647dec4583702e59f235e13b5"
+    },
+    {
+      "label": "workers-sdk-license-mit",
+      "url": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/LICENSE-MIT",
+      "sha256": "9bb3b077cc8628334bab25961223dd8207252c8a56aa054195be38f1c042aaf4"
+    },
+    {
+      "label": "workers-sdk-license-apache",
+      "url": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/LICENSE-APACHE",
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    }
+  ]
+}

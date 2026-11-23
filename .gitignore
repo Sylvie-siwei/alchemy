@@ -1,0 +1,41 @@
+# Dependencies and package-manager state
+/node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Generated output, host metadata and local verification
+/.next/
+/.vinext/
+/.wrangler/
+/.openai/
+/.vercel/
+/dist/
+/out/
+/coverage/
+/artifacts/
+/outputs/
+/work/
+/build-output/
+/.npm-cache/
+*.tsbuildinfo
+
+# Local configuration, secrets, scratch files and logs
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+*.secret
+secrets.*
+.cache/
+.tmp/
+tmp/
+*.log
+.DS_Store
